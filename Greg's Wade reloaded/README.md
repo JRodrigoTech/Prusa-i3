@@ -1,3 +1,5 @@
+Greg's Wade reloaded
+==================
 This derivative of Greg's Wade Extruder collects all the best ideas and latest features and improvements:
 
 * Greg's excellent "Guidler" for perfectly lined up filament feed AND easy access of the hobbed bolt
@@ -18,8 +20,8 @@ I made STL-exports for these three hotend-mounts:
 My configurations were made for 0.25mm layerheight (using 0.35mm nozzle), so if you're using larger values please change the parameter in the SCAD and export your own STL. Otherwise the support-layers of bearing-hole and idler mount may not be sliced correctly.
 
 Enjoy!
-
-
+Updates
+==================
 UPDATE 2012-03-12:
 
 As Zarquon requested via comments, I uploaded a SAE compatible version of the groovemount-extruder-body as well as the big gear. Actually I simply replaced the parameters for M3/M4/M8 nuts to the values Zarquon submitted. Please leave a comment if something still doesn't fit.
