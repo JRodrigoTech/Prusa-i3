@@ -1,8 +1,8 @@
-This is Prusa iteration 3
+This is Prusa iteration 3 vanilla edition!!
 Published under GPL v3
 
 To start:
-Copy configuration.scad.dist to configuration.scad and fill custom
+*Copy configuration.scad.dist to configuration.scad and fill custom
 settings section there
 
 Aim for 0.3mm layers and 2.2 extrusion width (width over thickness),
