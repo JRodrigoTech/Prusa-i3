@@ -10,8 +10,8 @@ Single Frame Printed Part list
 - 1x *x-end-motor.stl*
 - 1x *y-belt-holder.stl*
 - 4x *y-corners.stl* (or 4x *y-corners-rotated.stl*)
-- 1x *y-idler.stl*
-- 1x *y-motor.stl*
+- 1x *y-idler.stl* (or 1x *y-idler-tensioner.stl*)
+- 1x *y-motor.stl* (or 1x *y-motor-3-points.stl*)
 - 1x *z-axis-bottom.stl* (or 1x *z-axis-bottom-left.stl* and 1x *z-axis-bottom-right.stl*)
 - 1x *z-axis-top.stl* (or 1x *z-axis-top-left.stl* and 1x *z-axis-top-right.stl*)
 
